@@ -1,3 +1,5 @@
+// for more information on the ph sensor go to the following URL
+// http://www.botshop.co.za/how-to-use-a-PH-probe-and-sensor/
 float calibration = 0.00; //change this value to calibrate
 const int analogInPin = A0; 
 int sensorValue = 0; 
